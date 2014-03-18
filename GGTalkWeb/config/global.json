@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "GGTalk": {
+            "applicationId": "Wp6jZKx6pgMSSDc6A7V93mgHMArjt2bVRG9P4Oy8", 
+            "masterKey": "d0T0xZfHGX3bABMpIDAkZRTTz2oTUKEucoEhUpOH"
+        }, 
+        "_default": {
+            "link": "GGTalk"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}

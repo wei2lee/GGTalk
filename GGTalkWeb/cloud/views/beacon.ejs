@@ -1,0 +1,17 @@
+<html>
+   <head>
+   </head>
+   <link rel="stylesheet" href="/css/main.css" type="text/css">
+   <body>
+		<%if (beacon.img == "") { %>
+		<div id="mainContainer">
+			<h1><%= beacon.name %></h1>
+			<h5><%= beacon.description %></h5>
+		</div>
+		<% } else { %>
+		<div id="mainImgContainer">
+			<img src=<%= beacon.img %> width=100% height=auto>
+		</div>
+		<% } %>
+   </body>
+</html>

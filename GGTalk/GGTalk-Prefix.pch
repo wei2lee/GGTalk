@@ -13,4 +13,22 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import <Parse/Parse.h>
+    #import "Util.h"
+    #import "geometryUtil.h"
+    #import "ESTBeaconManager.h"
+    #import "UIAlertView+Blocks.h"
+    #import "MBProgressHUD.h"
+    #import "CAAnimation+Blocks.h"
+    #import "Beacon.h"
+    #import "ViewController.h"
+    #import "BeaconViewController.h"
+    #import "StaffViewController.h"
+    #import "DataButton.h"
+    #import "Reachability.h"
+    #import "AppDelegate.h"
+    #import "NSData+Blocks.h"
+    #import "GCPlaceholderTextView.h"
+    #import "BroadcastViewController.h"
+    #import "NSUserDefaults+Utility.h"
 #endif

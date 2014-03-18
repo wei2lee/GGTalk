@@ -1,0 +1,26 @@
++1.Caching & Remove Cache
+2.Content Layout (html)
+3.Combine(New Layout, New Flow)
++4.Optimize Update (New Row, Delete Row, Update Row)
++5.Optimize Update (Check Server periodically for update), Server Cloud Code
+6.
+7.GPS 
+8.reduce, prevent spoofing
+9.check for bluetooth is on, check for permission is on
+10.can see self broadcasting  ?
+
+++100.Keyboard Sensitive Layout for iPhone4s , active as ibeacon
+
+
+
+
+landing > activeasibeacon, locating, content
+
+
+activeasibeacon > landing
+
+
+locatingibeacon > content, landing
+
+
+content > landing

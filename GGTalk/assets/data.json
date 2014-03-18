@@ -1,0 +1,100 @@
+{
+    "results": [
+                {
+                "proximityUUID": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+                "major": 38216,
+                "minor": 23103,
+                "objectId": "DeepBlueBeacon",
+                "item": {
+                "objectId": "DeepBlueBeacon",
+                "name": "Deep Blue Beacon",
+                "title": "Deep Blue Beacon",
+                "description": "Lorem Lpsum",
+                "img": "deepblueshoes.png",
+                "timeout": 10,
+                "url": "beaconDeepBlue.html",
+                "deleted": false,
+                "notifications": [
+                                  {
+                                  "objectId": "deepblue.enter1",
+                                  "type": "enter",
+                                  "txt": "Deep blue beacon is in range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  },
+                                  {
+                                  "objectId": "deepblue.exit1",
+                                  "type": "exit",
+                                  "txt": "Deep blue beacon is out range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  }
+                                  ]
+                }
+                },
+                {
+                "proximityUUID": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+                "major": 47586,
+                "minor": 49134,
+                "objectId": "LightBlueBeacon",
+                "item": {
+                "objectId": "LightBlueBeacon",
+                "name": "Light Blue Beacon",
+                "title": "Light Blue Beacon",
+                "description": "Lorem Lpsum",
+                "img": "lightblueshoes.png",
+                "timeout": 10,
+                "url": "beaconLightBlue.html",
+                "deleted": false,
+                "notifications": [
+                                  {
+                                  "objectId": "lightblue.enter1",
+                                  "type": "enter",
+                                  "txt": "Light blue beacon is in range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  },
+                                  {
+                                  "objectId": "lightpblue.exit1",
+                                  "type": "exit",
+                                  "txt": "Light blue beacon is out range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  }
+                                  ]
+                }
+                },
+                {
+                "proximityUUID": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+                "major": 64030,
+                "minor": 34207,
+                "objectId": "GreenBeacon",
+                "item": {
+                "objectId": "GreenBeacon",
+                "name": "Green Beacon",
+                "title": "Green Beacon",
+                "description": "Lorem Lpsum",
+                "img": "greenshoes.png",
+                "timeout": 10,
+                "url": "beaconGreen.html",
+                "deleted": false,
+                "notifications": [
+                                  {
+                                  "objectId": "green.enter1",
+                                  "type": "enter",
+                                  "txt": "Green beacon is in range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  },
+                                  {
+                                  "objectId": "green.exit1",
+                                  "type": "exit",
+                                  "txt": "Green beacon is out range",
+                                  "timeout": 10,
+                                  "enabled": true
+                                  }
+                                  ]
+                }
+                }
+                ]
+}
